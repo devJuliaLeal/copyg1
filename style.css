@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+
+.politica {
+  background-color: #c4170c;
+  color: white;
+}
+.politica h2 {
+  background-color: #b0140a;
+}
+
+.titulo {
+  margin-left: 1500px;
+  margin-right: 1500px;
+  font-size: 48px;
+}
+.nome {
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 20px;
+}
+p {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.conteudo {
+  width: 800px;
+  margin: auto;
+}
+.conteudo img {
+  width: 600px;
+}
