@@ -11,31 +11,35 @@ body {
 }
 
 .titulo {
-  margin-left: 200px;
-  margin-right: 150px;
+  margin-left: 150px;
+  margin-right: 290px;
   margin-bottom: 50px;
-  font-size: 48px;
+  font-size: 54px;
   text-align: left;
   color: #111111;
 }
 .nome {
-  margin-left: 200px;
-  margin-right: 150px;
-  font-size: 20px;
+  margin-left: 150px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-size: 18px;
   text-align: left;
-  color: #595959;
+  color: #484848;
 }
 .data {
   text-align: left;
-  margin-left: 200px;
-  margin-right: 150px;
-  font-size: 20px;
-  color: #595959;
+  margin-top: 5px;
+  margin-left: 150px;
+  margin-right: 10px;
+  font-size: 18px;
+  color: #484848;
 }
 p {
   margin-left: 120px;
   margin-right: 120px;
-  color: #111111;
+  color: #484848;
+  font-size: 12px;
+  line-height: 30px;
 }
 .conteudo {
   width: 800px;
@@ -44,5 +48,6 @@ p {
   color: #111111;
 }
 .conteudo img {
+  margin-top: 100px;
   width: 600px;
 }
