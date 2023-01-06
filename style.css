@@ -38,7 +38,7 @@ p {
   margin-left: 120px;
   margin-right: 120px;
   color: #484848;
-  font-size: 12px;
+  font-size: 24px;
   line-height: 30px;
 }
 .conteudo {
@@ -48,6 +48,6 @@ p {
   color: #111111;
 }
 .conteudo img {
-  margin-top: 100px;
+  margin-top: 80px;
   width: 600px;
 }
