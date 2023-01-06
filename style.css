@@ -13,32 +13,35 @@ body {
 .titulo {
   margin-left: 200px;
   margin-right: 150px;
+  margin-bottom: 50px;
   font-size: 48px;
   text-align: left;
+  color: #111111;
 }
 .nome {
   margin-left: 200px;
   margin-right: 150px;
   font-size: 20px;
   text-align: left;
-  color: rgb(194, 188, 188);
+  color: #595959;
 }
 .data {
   text-align: left;
   margin-left: 200px;
   margin-right: 150px;
   font-size: 20px;
-  color: rgb(194, 188, 188);
+  color: #595959;
 }
 p {
   margin-left: 120px;
   margin-right: 120px;
+  color: #111111;
 }
 .conteudo {
-  margin-top: 1000px;
   width: 800px;
   margin: auto;
   text-align: left;
+  color: #111111;
 }
 .conteudo img {
   width: 600px;
