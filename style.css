@@ -11,22 +11,34 @@ body {
 }
 
 .titulo {
-  margin-left: 1500px;
-  margin-right: 1500px;
+  margin-left: 200px;
+  margin-right: 150px;
   font-size: 48px;
+  text-align: left;
 }
 .nome {
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 200px;
+  margin-right: 150px;
   font-size: 20px;
+  text-align: left;
+  color: rgb(194, 188, 188);
+}
+.data {
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 150px;
+  font-size: 20px;
+  color: rgb(194, 188, 188);
 }
 p {
   margin-left: 120px;
   margin-right: 120px;
 }
 .conteudo {
+  margin-top: 1000px;
   width: 800px;
   margin: auto;
+  text-align: left;
 }
 .conteudo img {
   width: 600px;
